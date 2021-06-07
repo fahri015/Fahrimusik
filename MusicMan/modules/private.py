@@ -39,6 +39,7 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┗━━━━━━━━━━━━━━
 ❃ Managed With ❤ By {OWNER}
 ❃ Thanks To [DITO](https://t.me/papirocknroll)
+JANGANGKI LUPA SUBSCRIBE CHANNELNYA AREA DEKKENG {UPDATE_CHANNEL}
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
