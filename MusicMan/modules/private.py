@@ -28,7 +28,7 @@ logging.basicConfig(level=logging.INFO)
 )
 async def start_(client: Client, message: Message):
     await message.reply_text(
-        f"""<b>┗┓ Haii {message.from_user.first_name} saya adalah {PROJECT_NAME} ┏┛\n
+        f"""<b>┗┓ Haii dekkengkuu{message.from_user.first_name} saya adalah {PROJECT_NAME} ┏┛\n
 Saya Bot Music Group, Yang dapat Memutar Lagu di Voice Chat Group Dengan cara yang Mudah
 Saya Memiliki Banyak Fitur Praktis Seperti :
 ┏━━━━━━━━━━━━━━
@@ -38,7 +38,7 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap saya
 ┗━━━━━━━━━━━━━━
 ❃ Managed With ❤ By {OWNER}
-❃ Thanks To [Risman](https://t.me/mrismanaziz)
+❃ Thanks To [DITO](https://t.me/papirocknroll)
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
@@ -170,7 +170,7 @@ async def reload(client: Client, message: Message):
                         "Group Support", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        "Owner", url=f"https://t.me/mrismanaziz"
+                        "Owner", url=f"https://t.me/papirocknroll"
                     )
                 ]
             ]
